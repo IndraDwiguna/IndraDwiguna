@@ -1,0 +1,53 @@
+import Queue
+
+def tangkap_nama (x,n):
+
+q-Queue. CreateQueue ()
+
+for i in x:
+
+Queue. enqueue (q, i) print ("Peserta awal =",q)
+
+for i in range (Queue.size (q)) : print ("Looping d =" (i+1), g)
+
+a Queue.dequeue (q)import Queue
+
+def tangkap_nama (x,n):
+
+q-Queue. CreateQueue ()
+
+for i in x:
+
+Queue. enqueue (q, i) print ("Peserta awal =",q)
+
+for i in range (Queue.size (q)) : print ("Looping d =" (i+1), g)
+
+a Queue.dequeue (q)
+
+if a == n :
+
+return ("Total looping yang diperlukan d" (i+1)) elif Queue.size (q) == 1:
+
+return ("tidak ditemukan")
+
+else:
+
+Queue. enqueue (q, a)
+
+y=["ita", "bayu","andi", "jaki"]
+
+print (y) cari = input ("Nama peserta yang di cari? \n") print (tangkap_nama (y, cari))
+
+if a == n :
+
+return ("Total looping yang diperlukan d" (i+1)) elif Queue.size (q) == 1:
+
+return ("tidak ditemukan")
+
+else:
+
+Queue. enqueue (q, a)
+
+y=["ita", "bayu","andi", "jaki"]
+
+print (y) cari = input ("Nama peserta yang di cari? \n") print (tangkap_nama (y, cari))
