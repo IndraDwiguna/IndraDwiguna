@@ -38,16 +38,4 @@ y=["ita", "bayu","andi", "jaki"]
 
 print (y) cari = input ("Nama peserta yang di cari? \n") print (tangkap_nama (y, cari))
 
-if a == n :
 
-return ("Total looping yang diperlukan d" (i+1)) elif Queue.size (q) == 1:
-
-return ("tidak ditemukan")
-
-else:
-
-Queue. enqueue (q, a)
-
-y=["ita", "bayu","andi", "jaki"]
-
-print (y) cari = input ("Nama peserta yang di cari? \n") print (tangkap_nama (y, cari))
